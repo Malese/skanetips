@@ -1,11 +1,11 @@
 {
-  "name": "contentful-starter-gatsby-blog",
-  "description": "Contentful Gatsby Starter Blog",
+  "name": "skanetips",
+  "description": "En blogg om att upptäcka och uppleva Skåne.",
   "private": true,
   "version": "0.0.1",
-  "author": "Contentful <opensource@contentful.com>",
+  "author": "Martin Lekvall <lekvall@gmail.com>",
   "bugs": {
-    "url": "https://github.com/contentful/starter-gatsby-blog/issues"
+    "url": "https://github.com/Malese/skanetips/issues"
   },
   "dependencies": {
     "gatsby": "^2.23.9",
@@ -24,7 +24,7 @@
     "contentful-import": "^7.8.6",
     "netlify-cli": "^2.54.0"
   },
-  "homepage": "https://github.com/contentful/starter-gatsby-blog#readme",
+  "homepage": "https://github.com/Malese/skanetips/blob/master/README.md",
   "keywords": [
     "gatsby",
     "contentful",
@@ -34,7 +34,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contentful/starter-gatsby-blog.git"
+    "url": "git+https://github.com/Malese/skanetips.git"
   },
   "scripts": {
     "dev": "gatsby develop",
