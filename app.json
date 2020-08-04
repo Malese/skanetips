@@ -1,13 +1,15 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "Skånetips",
+  "description": "Tips för att upptäcka och uppleva Skåne.",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "skåne",
+    "tips",
+    "natur",
+    "hav",
+    "vandra",
+    "cykla"
   ],
-  "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
+  "repository": "https://github.com/Malese/skanetips",
   "success_url": "/",
   "buildpacks": [
     {
