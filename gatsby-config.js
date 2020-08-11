@@ -26,6 +26,7 @@ if (!spaceId || !accessToken) {
 module.exports = {
   siteMetadata: {
     title: "Skånetips",
+    description: "En blogg om att upptäcka och uppleva Skåne.",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
